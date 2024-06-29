@@ -1,6 +1,6 @@
 # Data Analysis Scripts Repository
 
-Welcome to the Data Analysis Scripts Repository! This repository is a collection of useful data analysis scripts written in Python, R, and SQL. Our goal is to provide a centralized location for scripts that can help in various data analysis tasks, from data cleaning and transformation to advanced statistical analysis and visualization. Enjoy!
+Welcome to the Data Analysis Scripts Repository! This repository is a collection of useful data analysis scripts written in Python, R, and SQL. Our goal is to provide a centralized location for scripts that can help in various data analysis tasks, from data cleaning and transformation to advanced statistical analysis and visualization.
 
 ## Table of Contents
 
